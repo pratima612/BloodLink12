@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Run Frontend
 &nbsp;&nbsp;&nbsp;&nbsp;> <code>cd client</code>
 &nbsp;&nbsp;&nbsp;&nbsp;> <code>npm install</code>
@@ -26,3 +27,6 @@
 | [![Image 19](https://github.com/UjjwalSk/BloodLink/blob/main/ss/19.png)](https://github.com/UjjwalSk/BloodLink/blob/main/ss/19.png) | [![Image 20](https://github.com/UjjwalSk/BloodLink/blob/main/ss/20.png)](https://github.com/UjjwalSk/BloodLink/blob/main/ss/20.png) |
 
 </div>
+=======
+# BloodLink12
+>>>>>>> 3089502249039afe5b1b5bce4113439f89d9cd94
